@@ -16,7 +16,7 @@ I am Sten and I enjoy building systems and breaking them. You can often find me 
 
 [![My Tools](https://skillicons.dev/icons?i=vscode,stackoverflow,postman,figma&perline=18)](https://skillicons.dev)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=StenLeinasaar)](https://github.com/anuraghazra/github-readme-stats)
+![Sten's GitHub stats](https://github-readme-stats.vercel.app/api?username=StenLeinasaar&show_icons=true&theme=dark)
 
 
 <!--
