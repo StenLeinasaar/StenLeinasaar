@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+<section class="introtext">
+       <h1>I'm <span class="auto-type"></span></h1>
+</section>
+<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+<script>
+  var typed = new Typed(".auto-type", {
+  strings: [ "coding", "studying", "practicing"],
+  typeSpeed: 50,
+  backSpeed: 150,
+  loop: true
+})
+</script>
+
+
 
 ## When I do DevOps stuff
 
