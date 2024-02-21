@@ -2,15 +2,11 @@
 
 I am Sten and I enjoy building systems and breaking them. You can often find me building something. I promise to try and be better about adding code to my Github publicly as well. 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,gitlab,bash,docker,vim,linux,redhat,ubuntu,nginx,mysql,rabbitmq,kafka,redis,windows,flask,cloudflare&perline=6)](https://skillicons.dev)
+
 
 ## When I do DevOps stuff
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,gitlab,bash,docker,vim,linux,redhat,ubuntu, nginx, mysql, rabbitmq, kafka, redis,windows,flask , cloudflare " />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,gitlab,bash,docker,vim,linux,redhat,ubuntu,nginx,mysql,rabbitmq,kafka,redis,windows,flask,cloudflare&perline=9)](https://skillicons.dev)
 
 ## When I do programming stuff
 
