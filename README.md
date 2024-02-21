@@ -1,4 +1,9 @@
+
+![Sten Leinasaar](assets/images/banner.jpeg)
+
+
 ### Hi there 👋
+
 
 I am Sten and I enjoy building systems and breaking them. You can often find me building something. I promise to try and be better about adding code to my Github publicly as well. 
 
