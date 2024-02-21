@@ -18,6 +18,8 @@ I am Sten and I enjoy building systems and breaking them. You can often find me 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StenLeinasaar&repo=A.I-final-project)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StenLeinasaar)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **StenLeinasaar/StenLeinasaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
