@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+
+## What I am familiar with
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=aws,bash,cs,clojure,gcpgit,kubernetes,docker,c,vim" />
   </a>
 </p>
 
