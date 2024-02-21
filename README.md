@@ -4,33 +4,17 @@ I am Sten and I enjoy building systems and breaking them. You can often find me 
 
 
 
-## When I do DevOps stuff
+### When I do DevOps stuff
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,gitlab,bash,docker,vim,linux,redhat,ubuntu,nginx,mysql,rabbitmq,kafka,redis,windows,flask,cloudflare&perline=18)](https://skillicons.dev)
+[![My Devops](https://skillicons.dev/icons?i=aws,gcp,gitlab,bash,docker,vim,linux,redhat,ubuntu,nginx,mysql,rabbitmq,kafka,redis,windows,flask,cloudflare&perline=18)](https://skillicons.dev)
 
 ## When I do programming stuff
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,clojure,c,go, py,lua, regex, java, js ,css, html " />
-  </a>
-</p>
+[![My Programming](https://skillicons.dev/icons?i=cs,clojure,c,go,py,lua,regex,java,js,css,html&perline=18)](https://skillicons.dev)
 
 ## Tools I use
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,stackoverflow, postman,figma, " />
-  </a>
-</p>
-
-## Find me on
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/stenleinasaar/">
-    <img src="https://skillicons.dev/icons?i=linkedin " />
-  </a>
-</p>
+[![My Tools](https://skillicons.dev/icons?i=vscode,stackoverflow,postman,figma&perline=18)](https://skillicons.dev)
 
 
 <!--
