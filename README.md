@@ -1,25 +1,14 @@
 ### Hi there 👋
 
-<section class="introtext">
-       <h1>I'm <span class="auto-type"></span></h1>
-</section>
-<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
-<script>
-  var typed = new Typed(".auto-type", {
-  strings: [ "coding", "studying", "practicing"],
-  typeSpeed: 50,
-  backSpeed: 150,
-  loop: true
-})
-</script>
+I am Sten and I enjoy building systems and breaking them. You can often find me building something. I promise to try and be better about adding code to my Github publicly as well. 
 
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,gitlab,bash,docker,vim,linux,redhat,ubuntu,nginx,mysql,rabbitmq,kafka,redis,windows,flask,cloudflare&perline=6)](https://skillicons.dev)
 
 ## When I do DevOps stuff
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,gitlab,bash,docker,vim, linux,redhat,ubuntu, nginx, mysql, rabbitmq, kafka, redis,windows,flask , cloudflare " />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,gitlab,bash,docker,vim,linux,redhat,ubuntu, nginx, mysql, rabbitmq, kafka, redis,windows,flask , cloudflare " />
   </a>
 </p>
 
